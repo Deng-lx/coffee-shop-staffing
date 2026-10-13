@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 plt.style.use("seaborn-v0_8")
 
-st.title("Team Name - Coffee Shop Staffing Dashboard")
+st.title("Team 9 - Coffee Shop Staffing Dashboard")
 
 st.caption(
     "For coffee shop store managers to decide which hours need more staff "
